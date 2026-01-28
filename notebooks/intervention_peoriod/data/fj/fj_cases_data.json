@@ -1,0 +1,1827 @@
+[
+    {
+        "Day": 1,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 2,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 3,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 4,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 5,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 6,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 7,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 8,
+        "New_Cases": 0,
+        "Cumulative_Cases": 0
+    },
+    {
+        "Day": 9,
+        "New_Cases": 1,
+        "Cumulative_Cases": 1
+    },
+    {
+        "Day": 10,
+        "New_Cases": 0,
+        "Cumulative_Cases": 1
+    },
+    {
+        "Day": 11,
+        "New_Cases": 0,
+        "Cumulative_Cases": 1
+    },
+    {
+        "Day": 12,
+        "New_Cases": 1,
+        "Cumulative_Cases": 2
+    },
+    {
+        "Day": 13,
+        "New_Cases": 0,
+        "Cumulative_Cases": 2
+    },
+    {
+        "Day": 14,
+        "New_Cases": 0,
+        "Cumulative_Cases": 2
+    },
+    {
+        "Day": 15,
+        "New_Cases": 1,
+        "Cumulative_Cases": 3
+    },
+    {
+        "Day": 16,
+        "New_Cases": 0,
+        "Cumulative_Cases": 3
+    },
+    {
+        "Day": 17,
+        "New_Cases": 0,
+        "Cumulative_Cases": 3
+    },
+    {
+        "Day": 18,
+        "New_Cases": 0,
+        "Cumulative_Cases": 3
+    },
+    {
+        "Day": 19,
+        "New_Cases": 1,
+        "Cumulative_Cases": 4
+    },
+    {
+        "Day": 20,
+        "New_Cases": 0,
+        "Cumulative_Cases": 4
+    },
+    {
+        "Day": 21,
+        "New_Cases": 1,
+        "Cumulative_Cases": 5
+    },
+    {
+        "Day": 22,
+        "New_Cases": 0,
+        "Cumulative_Cases": 5
+    },
+    {
+        "Day": 23,
+        "New_Cases": 0,
+        "Cumulative_Cases": 5
+    },
+    {
+        "Day": 24,
+        "New_Cases": 1,
+        "Cumulative_Cases": 6
+    },
+    {
+        "Day": 25,
+        "New_Cases": 0,
+        "Cumulative_Cases": 6
+    },
+    {
+        "Day": 26,
+        "New_Cases": 0,
+        "Cumulative_Cases": 6
+    },
+    {
+        "Day": 27,
+        "New_Cases": 0,
+        "Cumulative_Cases": 6
+    },
+    {
+        "Day": 28,
+        "New_Cases": 1,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 29,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 30,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 31,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 32,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 33,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 34,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 35,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 36,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 37,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 38,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 39,
+        "New_Cases": 0,
+        "Cumulative_Cases": 7
+    },
+    {
+        "Day": 40,
+        "New_Cases": 1,
+        "Cumulative_Cases": 8
+    },
+    {
+        "Day": 41,
+        "New_Cases": 0,
+        "Cumulative_Cases": 8
+    },
+    {
+        "Day": 42,
+        "New_Cases": 0,
+        "Cumulative_Cases": 8
+    },
+    {
+        "Day": 43,
+        "New_Cases": 1,
+        "Cumulative_Cases": 9
+    },
+    {
+        "Day": 44,
+        "New_Cases": 0,
+        "Cumulative_Cases": 9
+    },
+    {
+        "Day": 45,
+        "New_Cases": 1,
+        "Cumulative_Cases": 10
+    },
+    {
+        "Day": 46,
+        "New_Cases": 0,
+        "Cumulative_Cases": 10
+    },
+    {
+        "Day": 47,
+        "New_Cases": 0,
+        "Cumulative_Cases": 10
+    },
+    {
+        "Day": 48,
+        "New_Cases": 0,
+        "Cumulative_Cases": 10
+    },
+    {
+        "Day": 49,
+        "New_Cases": 0,
+        "Cumulative_Cases": 10
+    },
+    {
+        "Day": 50,
+        "New_Cases": 0,
+        "Cumulative_Cases": 10
+    },
+    {
+        "Day": 51,
+        "New_Cases": 1,
+        "Cumulative_Cases": 11
+    },
+    {
+        "Day": 52,
+        "New_Cases": 1,
+        "Cumulative_Cases": 12
+    },
+    {
+        "Day": 53,
+        "New_Cases": 0,
+        "Cumulative_Cases": 12
+    },
+    {
+        "Day": 54,
+        "New_Cases": 1,
+        "Cumulative_Cases": 13
+    },
+    {
+        "Day": 55,
+        "New_Cases": 1,
+        "Cumulative_Cases": 14
+    },
+    {
+        "Day": 56,
+        "New_Cases": 0,
+        "Cumulative_Cases": 14
+    },
+    {
+        "Day": 57,
+        "New_Cases": 2,
+        "Cumulative_Cases": 16
+    },
+    {
+        "Day": 58,
+        "New_Cases": 0,
+        "Cumulative_Cases": 16
+    },
+    {
+        "Day": 59,
+        "New_Cases": 1,
+        "Cumulative_Cases": 17
+    },
+    {
+        "Day": 60,
+        "New_Cases": 0,
+        "Cumulative_Cases": 17
+    },
+    {
+        "Day": 61,
+        "New_Cases": 1,
+        "Cumulative_Cases": 18
+    },
+    {
+        "Day": 62,
+        "New_Cases": 2,
+        "Cumulative_Cases": 20
+    },
+    {
+        "Day": 63,
+        "New_Cases": 0,
+        "Cumulative_Cases": 20
+    },
+    {
+        "Day": 64,
+        "New_Cases": 0,
+        "Cumulative_Cases": 20
+    },
+    {
+        "Day": 65,
+        "New_Cases": 0,
+        "Cumulative_Cases": 20
+    },
+    {
+        "Day": 66,
+        "New_Cases": 0,
+        "Cumulative_Cases": 20
+    },
+    {
+        "Day": 67,
+        "New_Cases": 1,
+        "Cumulative_Cases": 21
+    },
+    {
+        "Day": 68,
+        "New_Cases": 0,
+        "Cumulative_Cases": 21
+    },
+    {
+        "Day": 69,
+        "New_Cases": 1,
+        "Cumulative_Cases": 22
+    },
+    {
+        "Day": 70,
+        "New_Cases": 0,
+        "Cumulative_Cases": 22
+    },
+    {
+        "Day": 71,
+        "New_Cases": 0,
+        "Cumulative_Cases": 22
+    },
+    {
+        "Day": 72,
+        "New_Cases": 0,
+        "Cumulative_Cases": 22
+    },
+    {
+        "Day": 73,
+        "New_Cases": 2,
+        "Cumulative_Cases": 24
+    },
+    {
+        "Day": 74,
+        "New_Cases": 0,
+        "Cumulative_Cases": 24
+    },
+    {
+        "Day": 75,
+        "New_Cases": 2,
+        "Cumulative_Cases": 26
+    },
+    {
+        "Day": 76,
+        "New_Cases": 0,
+        "Cumulative_Cases": 26
+    },
+    {
+        "Day": 77,
+        "New_Cases": 0,
+        "Cumulative_Cases": 26
+    },
+    {
+        "Day": 78,
+        "New_Cases": 2,
+        "Cumulative_Cases": 28
+    },
+    {
+        "Day": 79,
+        "New_Cases": 1,
+        "Cumulative_Cases": 29
+    },
+    {
+        "Day": 80,
+        "New_Cases": 0,
+        "Cumulative_Cases": 29
+    },
+    {
+        "Day": 81,
+        "New_Cases": 1,
+        "Cumulative_Cases": 30
+    },
+    {
+        "Day": 82,
+        "New_Cases": 0,
+        "Cumulative_Cases": 30
+    },
+    {
+        "Day": 83,
+        "New_Cases": 2,
+        "Cumulative_Cases": 32
+    },
+    {
+        "Day": 84,
+        "New_Cases": 0,
+        "Cumulative_Cases": 32
+    },
+    {
+        "Day": 85,
+        "New_Cases": 0,
+        "Cumulative_Cases": 32
+    },
+    {
+        "Day": 86,
+        "New_Cases": 1,
+        "Cumulative_Cases": 33
+    },
+    {
+        "Day": 87,
+        "New_Cases": 0,
+        "Cumulative_Cases": 33
+    },
+    {
+        "Day": 88,
+        "New_Cases": 3,
+        "Cumulative_Cases": 36
+    },
+    {
+        "Day": 89,
+        "New_Cases": 2,
+        "Cumulative_Cases": 38
+    },
+    {
+        "Day": 90,
+        "New_Cases": 1,
+        "Cumulative_Cases": 39
+    },
+    {
+        "Day": 91,
+        "New_Cases": 0,
+        "Cumulative_Cases": 39
+    },
+    {
+        "Day": 92,
+        "New_Cases": 1,
+        "Cumulative_Cases": 40
+    },
+    {
+        "Day": 93,
+        "New_Cases": 0,
+        "Cumulative_Cases": 40
+    },
+    {
+        "Day": 94,
+        "New_Cases": 4,
+        "Cumulative_Cases": 44
+    },
+    {
+        "Day": 95,
+        "New_Cases": 0,
+        "Cumulative_Cases": 44
+    },
+    {
+        "Day": 96,
+        "New_Cases": 1,
+        "Cumulative_Cases": 45
+    },
+    {
+        "Day": 97,
+        "New_Cases": 0,
+        "Cumulative_Cases": 45
+    },
+    {
+        "Day": 98,
+        "New_Cases": 0,
+        "Cumulative_Cases": 45
+    },
+    {
+        "Day": 99,
+        "New_Cases": 1,
+        "Cumulative_Cases": 46
+    },
+    {
+        "Day": 100,
+        "New_Cases": 0,
+        "Cumulative_Cases": 46
+    },
+    {
+        "Day": 101,
+        "New_Cases": 0,
+        "Cumulative_Cases": 46
+    },
+    {
+        "Day": 102,
+        "New_Cases": 1,
+        "Cumulative_Cases": 47
+    },
+    {
+        "Day": 103,
+        "New_Cases": 0,
+        "Cumulative_Cases": 47
+    },
+    {
+        "Day": 104,
+        "New_Cases": 0,
+        "Cumulative_Cases": 47
+    },
+    {
+        "Day": 105,
+        "New_Cases": 0,
+        "Cumulative_Cases": 47
+    },
+    {
+        "Day": 106,
+        "New_Cases": 1,
+        "Cumulative_Cases": 48
+    },
+    {
+        "Day": 107,
+        "New_Cases": 0,
+        "Cumulative_Cases": 48
+    },
+    {
+        "Day": 108,
+        "New_Cases": 0,
+        "Cumulative_Cases": 48
+    },
+    {
+        "Day": 109,
+        "New_Cases": 0,
+        "Cumulative_Cases": 48
+    },
+    {
+        "Day": 110,
+        "New_Cases": 0,
+        "Cumulative_Cases": 48
+    },
+    {
+        "Day": 111,
+        "New_Cases": 2,
+        "Cumulative_Cases": 50
+    },
+    {
+        "Day": 112,
+        "New_Cases": 2,
+        "Cumulative_Cases": 52
+    },
+    {
+        "Day": 113,
+        "New_Cases": 2,
+        "Cumulative_Cases": 54
+    },
+    {
+        "Day": 114,
+        "New_Cases": 1,
+        "Cumulative_Cases": 55
+    },
+    {
+        "Day": 115,
+        "New_Cases": 1,
+        "Cumulative_Cases": 56
+    },
+    {
+        "Day": 116,
+        "New_Cases": 0,
+        "Cumulative_Cases": 56
+    },
+    {
+        "Day": 117,
+        "New_Cases": 0,
+        "Cumulative_Cases": 56
+    },
+    {
+        "Day": 118,
+        "New_Cases": 1,
+        "Cumulative_Cases": 57
+    },
+    {
+        "Day": 119,
+        "New_Cases": 3,
+        "Cumulative_Cases": 60
+    },
+    {
+        "Day": 120,
+        "New_Cases": 0,
+        "Cumulative_Cases": 60
+    },
+    {
+        "Day": 121,
+        "New_Cases": 0,
+        "Cumulative_Cases": 60
+    },
+    {
+        "Day": 122,
+        "New_Cases": 1,
+        "Cumulative_Cases": 61
+    },
+    {
+        "Day": 123,
+        "New_Cases": 2,
+        "Cumulative_Cases": 63
+    },
+    {
+        "Day": 124,
+        "New_Cases": 1,
+        "Cumulative_Cases": 64
+    },
+    {
+        "Day": 125,
+        "New_Cases": 1,
+        "Cumulative_Cases": 65
+    },
+    {
+        "Day": 126,
+        "New_Cases": 1,
+        "Cumulative_Cases": 66
+    },
+    {
+        "Day": 127,
+        "New_Cases": 2,
+        "Cumulative_Cases": 68
+    },
+    {
+        "Day": 128,
+        "New_Cases": 0,
+        "Cumulative_Cases": 68
+    },
+    {
+        "Day": 129,
+        "New_Cases": 2,
+        "Cumulative_Cases": 70
+    },
+    {
+        "Day": 130,
+        "New_Cases": 1,
+        "Cumulative_Cases": 71
+    },
+    {
+        "Day": 131,
+        "New_Cases": 2,
+        "Cumulative_Cases": 73
+    },
+    {
+        "Day": 132,
+        "New_Cases": 1,
+        "Cumulative_Cases": 74
+    },
+    {
+        "Day": 133,
+        "New_Cases": 1,
+        "Cumulative_Cases": 75
+    },
+    {
+        "Day": 134,
+        "New_Cases": 1,
+        "Cumulative_Cases": 76
+    },
+    {
+        "Day": 135,
+        "New_Cases": 1,
+        "Cumulative_Cases": 77
+    },
+    {
+        "Day": 136,
+        "New_Cases": 0,
+        "Cumulative_Cases": 77
+    },
+    {
+        "Day": 137,
+        "New_Cases": 1,
+        "Cumulative_Cases": 78
+    },
+    {
+        "Day": 138,
+        "New_Cases": 2,
+        "Cumulative_Cases": 80
+    },
+    {
+        "Day": 139,
+        "New_Cases": 1,
+        "Cumulative_Cases": 81
+    },
+    {
+        "Day": 140,
+        "New_Cases": 0,
+        "Cumulative_Cases": 81
+    },
+    {
+        "Day": 141,
+        "New_Cases": 2,
+        "Cumulative_Cases": 83
+    },
+    {
+        "Day": 142,
+        "New_Cases": 0,
+        "Cumulative_Cases": 83
+    },
+    {
+        "Day": 143,
+        "New_Cases": 0,
+        "Cumulative_Cases": 83
+    },
+    {
+        "Day": 144,
+        "New_Cases": 1,
+        "Cumulative_Cases": 84
+    },
+    {
+        "Day": 145,
+        "New_Cases": 1,
+        "Cumulative_Cases": 85
+    },
+    {
+        "Day": 146,
+        "New_Cases": 1,
+        "Cumulative_Cases": 86
+    },
+    {
+        "Day": 147,
+        "New_Cases": 1,
+        "Cumulative_Cases": 87
+    },
+    {
+        "Day": 148,
+        "New_Cases": 0,
+        "Cumulative_Cases": 87
+    },
+    {
+        "Day": 149,
+        "New_Cases": 2,
+        "Cumulative_Cases": 89
+    },
+    {
+        "Day": 150,
+        "New_Cases": 1,
+        "Cumulative_Cases": 90
+    },
+    {
+        "Day": 151,
+        "New_Cases": 2,
+        "Cumulative_Cases": 92
+    },
+    {
+        "Day": 152,
+        "New_Cases": 1,
+        "Cumulative_Cases": 93
+    },
+    {
+        "Day": 153,
+        "New_Cases": 2,
+        "Cumulative_Cases": 95
+    },
+    {
+        "Day": 154,
+        "New_Cases": 2,
+        "Cumulative_Cases": 97
+    },
+    {
+        "Day": 155,
+        "New_Cases": 1,
+        "Cumulative_Cases": 98
+    },
+    {
+        "Day": 156,
+        "New_Cases": 1,
+        "Cumulative_Cases": 99
+    },
+    {
+        "Day": 157,
+        "New_Cases": 2,
+        "Cumulative_Cases": 101
+    },
+    {
+        "Day": 158,
+        "New_Cases": 3,
+        "Cumulative_Cases": 104
+    },
+    {
+        "Day": 159,
+        "New_Cases": 0,
+        "Cumulative_Cases": 104
+    },
+    {
+        "Day": 160,
+        "New_Cases": 4,
+        "Cumulative_Cases": 108
+    },
+    {
+        "Day": 161,
+        "New_Cases": 5,
+        "Cumulative_Cases": 113
+    },
+    {
+        "Day": 162,
+        "New_Cases": 3,
+        "Cumulative_Cases": 116
+    },
+    {
+        "Day": 163,
+        "New_Cases": 4,
+        "Cumulative_Cases": 120
+    },
+    {
+        "Day": 164,
+        "New_Cases": 1,
+        "Cumulative_Cases": 121
+    },
+    {
+        "Day": 165,
+        "New_Cases": 2,
+        "Cumulative_Cases": 123
+    },
+    {
+        "Day": 166,
+        "New_Cases": 2,
+        "Cumulative_Cases": 125
+    },
+    {
+        "Day": 167,
+        "New_Cases": 4,
+        "Cumulative_Cases": 129
+    },
+    {
+        "Day": 168,
+        "New_Cases": 3,
+        "Cumulative_Cases": 132
+    },
+    {
+        "Day": 169,
+        "New_Cases": 1,
+        "Cumulative_Cases": 133
+    },
+    {
+        "Day": 170,
+        "New_Cases": 0,
+        "Cumulative_Cases": 133
+    },
+    {
+        "Day": 171,
+        "New_Cases": 2,
+        "Cumulative_Cases": 135
+    },
+    {
+        "Day": 172,
+        "New_Cases": 1,
+        "Cumulative_Cases": 136
+    },
+    {
+        "Day": 173,
+        "New_Cases": 2,
+        "Cumulative_Cases": 138
+    },
+    {
+        "Day": 174,
+        "New_Cases": 1,
+        "Cumulative_Cases": 139
+    },
+    {
+        "Day": 175,
+        "New_Cases": 1,
+        "Cumulative_Cases": 140
+    },
+    {
+        "Day": 176,
+        "New_Cases": 2,
+        "Cumulative_Cases": 142
+    },
+    {
+        "Day": 177,
+        "New_Cases": 1,
+        "Cumulative_Cases": 143
+    },
+    {
+        "Day": 178,
+        "New_Cases": 1,
+        "Cumulative_Cases": 144
+    },
+    {
+        "Day": 179,
+        "New_Cases": 3,
+        "Cumulative_Cases": 147
+    },
+    {
+        "Day": 180,
+        "New_Cases": 2,
+        "Cumulative_Cases": 149
+    },
+    {
+        "Day": 181,
+        "New_Cases": 2,
+        "Cumulative_Cases": 151
+    },
+    {
+        "Day": 182,
+        "New_Cases": 2,
+        "Cumulative_Cases": 153
+    },
+    {
+        "Day": 183,
+        "New_Cases": 7,
+        "Cumulative_Cases": 160
+    },
+    {
+        "Day": 184,
+        "New_Cases": 2,
+        "Cumulative_Cases": 162
+    },
+    {
+        "Day": 185,
+        "New_Cases": 0,
+        "Cumulative_Cases": 162
+    },
+    {
+        "Day": 186,
+        "New_Cases": 1,
+        "Cumulative_Cases": 163
+    },
+    {
+        "Day": 187,
+        "New_Cases": 1,
+        "Cumulative_Cases": 164
+    },
+    {
+        "Day": 188,
+        "New_Cases": 1,
+        "Cumulative_Cases": 165
+    },
+    {
+        "Day": 189,
+        "New_Cases": 0,
+        "Cumulative_Cases": 165
+    },
+    {
+        "Day": 190,
+        "New_Cases": 4,
+        "Cumulative_Cases": 169
+    },
+    {
+        "Day": 191,
+        "New_Cases": 2,
+        "Cumulative_Cases": 171
+    },
+    {
+        "Day": 192,
+        "New_Cases": 0,
+        "Cumulative_Cases": 171
+    },
+    {
+        "Day": 193,
+        "New_Cases": 6,
+        "Cumulative_Cases": 177
+    },
+    {
+        "Day": 194,
+        "New_Cases": 8,
+        "Cumulative_Cases": 185
+    },
+    {
+        "Day": 195,
+        "New_Cases": 0,
+        "Cumulative_Cases": 185
+    },
+    {
+        "Day": 196,
+        "New_Cases": 3,
+        "Cumulative_Cases": 188
+    },
+    {
+        "Day": 197,
+        "New_Cases": 2,
+        "Cumulative_Cases": 190
+    },
+    {
+        "Day": 198,
+        "New_Cases": 0,
+        "Cumulative_Cases": 190
+    },
+    {
+        "Day": 199,
+        "New_Cases": 3,
+        "Cumulative_Cases": 193
+    },
+    {
+        "Day": 200,
+        "New_Cases": 0,
+        "Cumulative_Cases": 193
+    },
+    {
+        "Day": 201,
+        "New_Cases": 3,
+        "Cumulative_Cases": 196
+    },
+    {
+        "Day": 202,
+        "New_Cases": 0,
+        "Cumulative_Cases": 196
+    },
+    {
+        "Day": 203,
+        "New_Cases": 2,
+        "Cumulative_Cases": 198
+    },
+    {
+        "Day": 204,
+        "New_Cases": 0,
+        "Cumulative_Cases": 198
+    },
+    {
+        "Day": 205,
+        "New_Cases": 1,
+        "Cumulative_Cases": 199
+    },
+    {
+        "Day": 206,
+        "New_Cases": 2,
+        "Cumulative_Cases": 201
+    },
+    {
+        "Day": 207,
+        "New_Cases": 0,
+        "Cumulative_Cases": 201
+    },
+    {
+        "Day": 208,
+        "New_Cases": 2,
+        "Cumulative_Cases": 203
+    },
+    {
+        "Day": 209,
+        "New_Cases": 3,
+        "Cumulative_Cases": 206
+    },
+    {
+        "Day": 210,
+        "New_Cases": 1,
+        "Cumulative_Cases": 207
+    },
+    {
+        "Day": 211,
+        "New_Cases": 3,
+        "Cumulative_Cases": 210
+    },
+    {
+        "Day": 212,
+        "New_Cases": 0,
+        "Cumulative_Cases": 210
+    },
+    {
+        "Day": 213,
+        "New_Cases": 7,
+        "Cumulative_Cases": 217
+    },
+    {
+        "Day": 214,
+        "New_Cases": 2,
+        "Cumulative_Cases": 219
+    },
+    {
+        "Day": 215,
+        "New_Cases": 2,
+        "Cumulative_Cases": 221
+    },
+    {
+        "Day": 216,
+        "New_Cases": 1,
+        "Cumulative_Cases": 222
+    },
+    {
+        "Day": 217,
+        "New_Cases": 0,
+        "Cumulative_Cases": 222
+    },
+    {
+        "Day": 218,
+        "New_Cases": 1,
+        "Cumulative_Cases": 223
+    },
+    {
+        "Day": 219,
+        "New_Cases": 1,
+        "Cumulative_Cases": 224
+    },
+    {
+        "Day": 220,
+        "New_Cases": 4,
+        "Cumulative_Cases": 228
+    },
+    {
+        "Day": 221,
+        "New_Cases": 3,
+        "Cumulative_Cases": 231
+    },
+    {
+        "Day": 222,
+        "New_Cases": 3,
+        "Cumulative_Cases": 234
+    },
+    {
+        "Day": 223,
+        "New_Cases": 3,
+        "Cumulative_Cases": 237
+    },
+    {
+        "Day": 224,
+        "New_Cases": 3,
+        "Cumulative_Cases": 240
+    },
+    {
+        "Day": 225,
+        "New_Cases": 1,
+        "Cumulative_Cases": 241
+    },
+    {
+        "Day": 226,
+        "New_Cases": 2,
+        "Cumulative_Cases": 243
+    },
+    {
+        "Day": 227,
+        "New_Cases": 2,
+        "Cumulative_Cases": 245
+    },
+    {
+        "Day": 228,
+        "New_Cases": 2,
+        "Cumulative_Cases": 247
+    },
+    {
+        "Day": 229,
+        "New_Cases": 4,
+        "Cumulative_Cases": 251
+    },
+    {
+        "Day": 230,
+        "New_Cases": 3,
+        "Cumulative_Cases": 254
+    },
+    {
+        "Day": 231,
+        "New_Cases": 3,
+        "Cumulative_Cases": 257
+    },
+    {
+        "Day": 232,
+        "New_Cases": 2,
+        "Cumulative_Cases": 259
+    },
+    {
+        "Day": 233,
+        "New_Cases": 2,
+        "Cumulative_Cases": 261
+    },
+    {
+        "Day": 234,
+        "New_Cases": 2,
+        "Cumulative_Cases": 263
+    },
+    {
+        "Day": 235,
+        "New_Cases": 1,
+        "Cumulative_Cases": 264
+    },
+    {
+        "Day": 236,
+        "New_Cases": 0,
+        "Cumulative_Cases": 264
+    },
+    {
+        "Day": 237,
+        "New_Cases": 1,
+        "Cumulative_Cases": 265
+    },
+    {
+        "Day": 238,
+        "New_Cases": 3,
+        "Cumulative_Cases": 268
+    },
+    {
+        "Day": 239,
+        "New_Cases": 3,
+        "Cumulative_Cases": 271
+    },
+    {
+        "Day": 240,
+        "New_Cases": 3,
+        "Cumulative_Cases": 274
+    },
+    {
+        "Day": 241,
+        "New_Cases": 2,
+        "Cumulative_Cases": 276
+    },
+    {
+        "Day": 242,
+        "New_Cases": 4,
+        "Cumulative_Cases": 280
+    },
+    {
+        "Day": 243,
+        "New_Cases": 1,
+        "Cumulative_Cases": 281
+    },
+    {
+        "Day": 244,
+        "New_Cases": 3,
+        "Cumulative_Cases": 284
+    },
+    {
+        "Day": 245,
+        "New_Cases": 1,
+        "Cumulative_Cases": 285
+    },
+    {
+        "Day": 246,
+        "New_Cases": 0,
+        "Cumulative_Cases": 285
+    },
+    {
+        "Day": 247,
+        "New_Cases": 5,
+        "Cumulative_Cases": 290
+    },
+    {
+        "Day": 248,
+        "New_Cases": 3,
+        "Cumulative_Cases": 293
+    },
+    {
+        "Day": 249,
+        "New_Cases": 5,
+        "Cumulative_Cases": 298
+    },
+    {
+        "Day": 250,
+        "New_Cases": 1,
+        "Cumulative_Cases": 299
+    },
+    {
+        "Day": 251,
+        "New_Cases": 1,
+        "Cumulative_Cases": 300
+    },
+    {
+        "Day": 252,
+        "New_Cases": 2,
+        "Cumulative_Cases": 302
+    },
+    {
+        "Day": 253,
+        "New_Cases": 4,
+        "Cumulative_Cases": 306
+    },
+    {
+        "Day": 254,
+        "New_Cases": 0,
+        "Cumulative_Cases": 306
+    },
+    {
+        "Day": 255,
+        "New_Cases": 5,
+        "Cumulative_Cases": 311
+    },
+    {
+        "Day": 256,
+        "New_Cases": 5,
+        "Cumulative_Cases": 316
+    },
+    {
+        "Day": 257,
+        "New_Cases": 0,
+        "Cumulative_Cases": 316
+    },
+    {
+        "Day": 258,
+        "New_Cases": 3,
+        "Cumulative_Cases": 319
+    },
+    {
+        "Day": 259,
+        "New_Cases": 3,
+        "Cumulative_Cases": 322
+    },
+    {
+        "Day": 260,
+        "New_Cases": 2,
+        "Cumulative_Cases": 324
+    },
+    {
+        "Day": 261,
+        "New_Cases": 3,
+        "Cumulative_Cases": 327
+    },
+    {
+        "Day": 262,
+        "New_Cases": 1,
+        "Cumulative_Cases": 328
+    },
+    {
+        "Day": 263,
+        "New_Cases": 3,
+        "Cumulative_Cases": 331
+    },
+    {
+        "Day": 264,
+        "New_Cases": 1,
+        "Cumulative_Cases": 332
+    },
+    {
+        "Day": 265,
+        "New_Cases": 3,
+        "Cumulative_Cases": 335
+    },
+    {
+        "Day": 266,
+        "New_Cases": 4,
+        "Cumulative_Cases": 339
+    },
+    {
+        "Day": 267,
+        "New_Cases": 2,
+        "Cumulative_Cases": 341
+    },
+    {
+        "Day": 268,
+        "New_Cases": 0,
+        "Cumulative_Cases": 341
+    },
+    {
+        "Day": 269,
+        "New_Cases": 2,
+        "Cumulative_Cases": 343
+    },
+    {
+        "Day": 270,
+        "New_Cases": 1,
+        "Cumulative_Cases": 344
+    },
+    {
+        "Day": 271,
+        "New_Cases": 1,
+        "Cumulative_Cases": 345
+    },
+    {
+        "Day": 272,
+        "New_Cases": 4,
+        "Cumulative_Cases": 349
+    },
+    {
+        "Day": 273,
+        "New_Cases": 3,
+        "Cumulative_Cases": 352
+    },
+    {
+        "Day": 274,
+        "New_Cases": 2,
+        "Cumulative_Cases": 354
+    },
+    {
+        "Day": 275,
+        "New_Cases": 5,
+        "Cumulative_Cases": 359
+    },
+    {
+        "Day": 276,
+        "New_Cases": 1,
+        "Cumulative_Cases": 360
+    },
+    {
+        "Day": 277,
+        "New_Cases": 4,
+        "Cumulative_Cases": 364
+    },
+    {
+        "Day": 278,
+        "New_Cases": 5,
+        "Cumulative_Cases": 369
+    },
+    {
+        "Day": 279,
+        "New_Cases": 0,
+        "Cumulative_Cases": 369
+    },
+    {
+        "Day": 280,
+        "New_Cases": 3,
+        "Cumulative_Cases": 372
+    },
+    {
+        "Day": 281,
+        "New_Cases": 6,
+        "Cumulative_Cases": 378
+    },
+    {
+        "Day": 282,
+        "New_Cases": 3,
+        "Cumulative_Cases": 381
+    },
+    {
+        "Day": 283,
+        "New_Cases": 1,
+        "Cumulative_Cases": 382
+    },
+    {
+        "Day": 284,
+        "New_Cases": 3,
+        "Cumulative_Cases": 385
+    },
+    {
+        "Day": 285,
+        "New_Cases": 0,
+        "Cumulative_Cases": 385
+    },
+    {
+        "Day": 286,
+        "New_Cases": 4,
+        "Cumulative_Cases": 389
+    },
+    {
+        "Day": 287,
+        "New_Cases": 4,
+        "Cumulative_Cases": 393
+    },
+    {
+        "Day": 288,
+        "New_Cases": 3,
+        "Cumulative_Cases": 396
+    },
+    {
+        "Day": 289,
+        "New_Cases": 3,
+        "Cumulative_Cases": 399
+    },
+    {
+        "Day": 290,
+        "New_Cases": 4,
+        "Cumulative_Cases": 403
+    },
+    {
+        "Day": 291,
+        "New_Cases": 0,
+        "Cumulative_Cases": 403
+    },
+    {
+        "Day": 292,
+        "New_Cases": 4,
+        "Cumulative_Cases": 407
+    },
+    {
+        "Day": 293,
+        "New_Cases": 4,
+        "Cumulative_Cases": 411
+    },
+    {
+        "Day": 294,
+        "New_Cases": 5,
+        "Cumulative_Cases": 416
+    },
+    {
+        "Day": 295,
+        "New_Cases": 3,
+        "Cumulative_Cases": 419
+    },
+    {
+        "Day": 296,
+        "New_Cases": 1,
+        "Cumulative_Cases": 420
+    },
+    {
+        "Day": 297,
+        "New_Cases": 1,
+        "Cumulative_Cases": 421
+    },
+    {
+        "Day": 298,
+        "New_Cases": 0,
+        "Cumulative_Cases": 421
+    },
+    {
+        "Day": 299,
+        "New_Cases": 3,
+        "Cumulative_Cases": 424
+    },
+    {
+        "Day": 300,
+        "New_Cases": 1,
+        "Cumulative_Cases": 425
+    },
+    {
+        "Day": 301,
+        "New_Cases": 2,
+        "Cumulative_Cases": 427
+    },
+    {
+        "Day": 302,
+        "New_Cases": 1,
+        "Cumulative_Cases": 428
+    },
+    {
+        "Day": 303,
+        "New_Cases": 0,
+        "Cumulative_Cases": 428
+    },
+    {
+        "Day": 304,
+        "New_Cases": 3,
+        "Cumulative_Cases": 431
+    },
+    {
+        "Day": 305,
+        "New_Cases": 2,
+        "Cumulative_Cases": 433
+    },
+    {
+        "Day": 306,
+        "New_Cases": 1,
+        "Cumulative_Cases": 434
+    },
+    {
+        "Day": 307,
+        "New_Cases": 0,
+        "Cumulative_Cases": 434
+    },
+    {
+        "Day": 308,
+        "New_Cases": 6,
+        "Cumulative_Cases": 440
+    },
+    {
+        "Day": 309,
+        "New_Cases": 1,
+        "Cumulative_Cases": 441
+    },
+    {
+        "Day": 310,
+        "New_Cases": 8,
+        "Cumulative_Cases": 449
+    },
+    {
+        "Day": 311,
+        "New_Cases": 1,
+        "Cumulative_Cases": 450
+    },
+    {
+        "Day": 312,
+        "New_Cases": 2,
+        "Cumulative_Cases": 452
+    },
+    {
+        "Day": 313,
+        "New_Cases": 2,
+        "Cumulative_Cases": 454
+    },
+    {
+        "Day": 314,
+        "New_Cases": 2,
+        "Cumulative_Cases": 456
+    },
+    {
+        "Day": 315,
+        "New_Cases": 4,
+        "Cumulative_Cases": 460
+    },
+    {
+        "Day": 316,
+        "New_Cases": 3,
+        "Cumulative_Cases": 463
+    },
+    {
+        "Day": 317,
+        "New_Cases": 2,
+        "Cumulative_Cases": 465
+    },
+    {
+        "Day": 318,
+        "New_Cases": 2,
+        "Cumulative_Cases": 467
+    },
+    {
+        "Day": 319,
+        "New_Cases": 1,
+        "Cumulative_Cases": 468
+    },
+    {
+        "Day": 320,
+        "New_Cases": 2,
+        "Cumulative_Cases": 470
+    },
+    {
+        "Day": 321,
+        "New_Cases": 2,
+        "Cumulative_Cases": 472
+    },
+    {
+        "Day": 322,
+        "New_Cases": 2,
+        "Cumulative_Cases": 474
+    },
+    {
+        "Day": 323,
+        "New_Cases": 1,
+        "Cumulative_Cases": 475
+    },
+    {
+        "Day": 324,
+        "New_Cases": 1,
+        "Cumulative_Cases": 476
+    },
+    {
+        "Day": 325,
+        "New_Cases": 0,
+        "Cumulative_Cases": 476
+    },
+    {
+        "Day": 326,
+        "New_Cases": 2,
+        "Cumulative_Cases": 478
+    },
+    {
+        "Day": 327,
+        "New_Cases": 2,
+        "Cumulative_Cases": 480
+    },
+    {
+        "Day": 328,
+        "New_Cases": 1,
+        "Cumulative_Cases": 481
+    },
+    {
+        "Day": 329,
+        "New_Cases": 1,
+        "Cumulative_Cases": 482
+    },
+    {
+        "Day": 330,
+        "New_Cases": 2,
+        "Cumulative_Cases": 484
+    },
+    {
+        "Day": 331,
+        "New_Cases": 2,
+        "Cumulative_Cases": 486
+    },
+    {
+        "Day": 332,
+        "New_Cases": 2,
+        "Cumulative_Cases": 488
+    },
+    {
+        "Day": 333,
+        "New_Cases": 3,
+        "Cumulative_Cases": 491
+    },
+    {
+        "Day": 334,
+        "New_Cases": 3,
+        "Cumulative_Cases": 494
+    },
+    {
+        "Day": 335,
+        "New_Cases": 2,
+        "Cumulative_Cases": 496
+    },
+    {
+        "Day": 336,
+        "New_Cases": 2,
+        "Cumulative_Cases": 498
+    },
+    {
+        "Day": 337,
+        "New_Cases": 2,
+        "Cumulative_Cases": 500
+    },
+    {
+        "Day": 338,
+        "New_Cases": 0,
+        "Cumulative_Cases": 500
+    },
+    {
+        "Day": 339,
+        "New_Cases": 2,
+        "Cumulative_Cases": 502
+    },
+    {
+        "Day": 340,
+        "New_Cases": 1,
+        "Cumulative_Cases": 503
+    },
+    {
+        "Day": 341,
+        "New_Cases": 3,
+        "Cumulative_Cases": 506
+    },
+    {
+        "Day": 342,
+        "New_Cases": 0,
+        "Cumulative_Cases": 506
+    },
+    {
+        "Day": 343,
+        "New_Cases": 1,
+        "Cumulative_Cases": 507
+    },
+    {
+        "Day": 344,
+        "New_Cases": 2,
+        "Cumulative_Cases": 509
+    },
+    {
+        "Day": 345,
+        "New_Cases": 2,
+        "Cumulative_Cases": 511
+    },
+    {
+        "Day": 346,
+        "New_Cases": 2,
+        "Cumulative_Cases": 513
+    },
+    {
+        "Day": 347,
+        "New_Cases": 0,
+        "Cumulative_Cases": 513
+    },
+    {
+        "Day": 348,
+        "New_Cases": 2,
+        "Cumulative_Cases": 515
+    },
+    {
+        "Day": 349,
+        "New_Cases": 2,
+        "Cumulative_Cases": 517
+    },
+    {
+        "Day": 350,
+        "New_Cases": 1,
+        "Cumulative_Cases": 518
+    },
+    {
+        "Day": 351,
+        "New_Cases": 2,
+        "Cumulative_Cases": 520
+    },
+    {
+        "Day": 352,
+        "New_Cases": 2,
+        "Cumulative_Cases": 522
+    },
+    {
+        "Day": 353,
+        "New_Cases": 1,
+        "Cumulative_Cases": 523
+    },
+    {
+        "Day": 354,
+        "New_Cases": 5,
+        "Cumulative_Cases": 528
+    },
+    {
+        "Day": 355,
+        "New_Cases": 2,
+        "Cumulative_Cases": 530
+    },
+    {
+        "Day": 356,
+        "New_Cases": 0,
+        "Cumulative_Cases": 530
+    },
+    {
+        "Day": 357,
+        "New_Cases": 2,
+        "Cumulative_Cases": 532
+    },
+    {
+        "Day": 358,
+        "New_Cases": 3,
+        "Cumulative_Cases": 535
+    },
+    {
+        "Day": 359,
+        "New_Cases": 2,
+        "Cumulative_Cases": 537
+    },
+    {
+        "Day": 360,
+        "New_Cases": 2,
+        "Cumulative_Cases": 539
+    },
+    {
+        "Day": 361,
+        "New_Cases": 0,
+        "Cumulative_Cases": 539
+    },
+    {
+        "Day": 362,
+        "New_Cases": 1,
+        "Cumulative_Cases": 540
+    },
+    {
+        "Day": 363,
+        "New_Cases": 2,
+        "Cumulative_Cases": 542
+    },
+    {
+        "Day": 364,
+        "New_Cases": 2,
+        "Cumulative_Cases": 544
+    },
+    {
+        "Day": 365,
+        "New_Cases": 1,
+        "Cumulative_Cases": 545
+    }
+]
