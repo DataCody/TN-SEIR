@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_70fb9659b927ef796c87a7c93f93b91e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_70fb9659b927ef796c87a7c93f93b91e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_70fb9659b927ef796c87a7c93f93b91e = L.map(
+                "map_70fb9659b927ef796c87a7c93f93b91e",
+                {
+                    center: [0.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d1fa1789965a5d6398562ff39715046e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_d1fa1789965a5d6398562ff39715046e.addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+            var circle_9bd5fa53d537eef3f535a8e6c684e070 = L.circle(
+                [0.0, 20.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_4bc074fbffdd5d5093615042767ada90 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ef13490e24818c54275b52535914da70 = $(`<div id="html_ef13490e24818c54275b52535914da70" style="width: 100.0%; height: 100.0%;">FIJI: 0k</div>`)[0];
+                popup_4bc074fbffdd5d5093615042767ada90.setContent(html_ef13490e24818c54275b52535914da70);
+            
+        
+
+        circle_9bd5fa53d537eef3f535a8e6c684e070.bindPopup(popup_4bc074fbffdd5d5093615042767ada90)
+        ;
+
+        
+    
+    
+            var circle_78d8e2b8d4996e4a6622565ee48df3cd = L.circle(
+                [0.0, 20.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_8edc9520ef3e4e427099615b332a8178 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b8322608b111cb22c29f3bcee98c4ac = $(`<div id="html_5b8322608b111cb22c29f3bcee98c4ac" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 1k</div>`)[0];
+                popup_8edc9520ef3e4e427099615b332a8178.setContent(html_5b8322608b111cb22c29f3bcee98c4ac);
+            
+        
+
+        circle_78d8e2b8d4996e4a6622565ee48df3cd.bindPopup(popup_8edc9520ef3e4e427099615b332a8178)
+        ;
+
+        
+    
+    
+            var circle_7559c14dbbee0cdf09d2bb2858631b24 = L.circle(
+                [0.0, 20.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_73a0299545d9259dd57484961c5b9795 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c51df2ed99cc42050fdf689d318c03bb = $(`<div id="html_c51df2ed99cc42050fdf689d318c03bb" style="width: 100.0%; height: 100.0%;">SAMOA: 0k</div>`)[0];
+                popup_73a0299545d9259dd57484961c5b9795.setContent(html_c51df2ed99cc42050fdf689d318c03bb);
+            
+        
+
+        circle_7559c14dbbee0cdf09d2bb2858631b24.bindPopup(popup_73a0299545d9259dd57484961c5b9795)
+        ;
+
+        
+    
+    
+            var circle_ea6f1acdf54c1579d10a67fe8f2c3df9 = L.circle(
+                [10.0, -60.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_86c451130caaf9754b45d3169294bb92 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_976d6e30ba855cf7416dc129eff06c22 = $(`<div id="html_976d6e30ba855cf7416dc129eff06c22" style="width: 100.0%; height: 100.0%;">FIJI: 100k</div>`)[0];
+                popup_86c451130caaf9754b45d3169294bb92.setContent(html_976d6e30ba855cf7416dc129eff06c22);
+            
+        
+
+        circle_ea6f1acdf54c1579d10a67fe8f2c3df9.bindPopup(popup_86c451130caaf9754b45d3169294bb92)
+        ;
+
+        
+    
+    
+            var circle_1ea6a5df40e034191695e8a8b1d8c1f2 = L.circle(
+                [10.0, -60.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 50000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_d34aa49078a4826761cb49895c367ede = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4e8d94356373379d7603c6fd0d75869e = $(`<div id="html_4e8d94356373379d7603c6fd0d75869e" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 50k</div>`)[0];
+                popup_d34aa49078a4826761cb49895c367ede.setContent(html_4e8d94356373379d7603c6fd0d75869e);
+            
+        
+
+        circle_1ea6a5df40e034191695e8a8b1d8c1f2.bindPopup(popup_d34aa49078a4826761cb49895c367ede)
+        ;
+
+        
+    
+    
+            var circle_40aa8fdfb614f66efebef2b0b2c0471b = L.circle(
+                [10.0, -60.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_07d63cacff79df8d6ba29703d5728ad3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa926f8a8d6951d34d21d343abcdb41b = $(`<div id="html_fa926f8a8d6951d34d21d343abcdb41b" style="width: 100.0%; height: 100.0%;">SAMOA: 10k</div>`)[0];
+                popup_07d63cacff79df8d6ba29703d5728ad3.setContent(html_fa926f8a8d6951d34d21d343abcdb41b);
+            
+        
+
+        circle_40aa8fdfb614f66efebef2b0b2c0471b.bindPopup(popup_07d63cacff79df8d6ba29703d5728ad3)
+        ;
+
+        
+    
+    
+            var circle_5bb6dff2dcf9d3c7f09f2e785d79d97d = L.circle(
+                [-10.0, 140.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_482131b62482938ce469ef2f01e2610c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8057c2236aff2ac4e7c85b7e07596b48 = $(`<div id="html_8057c2236aff2ac4e7c85b7e07596b48" style="width: 100.0%; height: 100.0%;">FIJI: 500k</div>`)[0];
+                popup_482131b62482938ce469ef2f01e2610c.setContent(html_8057c2236aff2ac4e7c85b7e07596b48);
+            
+        
+
+        circle_5bb6dff2dcf9d3c7f09f2e785d79d97d.bindPopup(popup_482131b62482938ce469ef2f01e2610c)
+        ;
+
+        
+    
+    
+            var circle_43bbd93169f1bf6ff7dc3617e463027a = L.circle(
+                [-10.0, 140.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 50000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_f1847195ccf42923fc4671ce3ae27876 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f4bad9fd5aec1db113b4ace91ac80ad2 = $(`<div id="html_f4bad9fd5aec1db113b4ace91ac80ad2" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 50k</div>`)[0];
+                popup_f1847195ccf42923fc4671ce3ae27876.setContent(html_f4bad9fd5aec1db113b4ace91ac80ad2);
+            
+        
+
+        circle_43bbd93169f1bf6ff7dc3617e463027a.bindPopup(popup_f1847195ccf42923fc4671ce3ae27876)
+        ;
+
+        
+    
+    
+            var circle_5c44c2d2b88e430bf407158e188c977d = L.circle(
+                [-10.0, 140.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 60000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_2c36c50b5416d8f0b703b956901f833a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_35ed85fa22d0052bd9395740d0e6c66a = $(`<div id="html_35ed85fa22d0052bd9395740d0e6c66a" style="width: 100.0%; height: 100.0%;">SAMOA: 60k</div>`)[0];
+                popup_2c36c50b5416d8f0b703b956901f833a.setContent(html_35ed85fa22d0052bd9395740d0e6c66a);
+            
+        
+
+        circle_5c44c2d2b88e430bf407158e188c977d.bindPopup(popup_2c36c50b5416d8f0b703b956901f833a)
+        ;
+
+        
+    
+    
+            var circle_dec6e1f0754f121e0af427da47853f5e = L.circle(
+                [50.0, 10.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_74f0eebe32844651dd264f66026f68e5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d95e9f028d4c64da3f1f204f4d4edd7e = $(`<div id="html_d95e9f028d4c64da3f1f204f4d4edd7e" style="width: 100.0%; height: 100.0%;">FIJI: 20k</div>`)[0];
+                popup_74f0eebe32844651dd264f66026f68e5.setContent(html_d95e9f028d4c64da3f1f204f4d4edd7e);
+            
+        
+
+        circle_dec6e1f0754f121e0af427da47853f5e.bindPopup(popup_74f0eebe32844651dd264f66026f68e5)
+        ;
+
+        
+    
+    
+            var circle_d3c67297ffc3cb22370a8948cdbe0970 = L.circle(
+                [50.0, 10.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 150000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_6a06ae39d0c2efe8c14be8fc26a0fbb8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2790eef4d24b90ed4189ead80630b2e9 = $(`<div id="html_2790eef4d24b90ed4189ead80630b2e9" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 150k</div>`)[0];
+                popup_6a06ae39d0c2efe8c14be8fc26a0fbb8.setContent(html_2790eef4d24b90ed4189ead80630b2e9);
+            
+        
+
+        circle_d3c67297ffc3cb22370a8948cdbe0970.bindPopup(popup_6a06ae39d0c2efe8c14be8fc26a0fbb8)
+        ;
+
+        
+    
+    
+            var circle_f38946fbd9918c1418fef7de932edf8d = L.circle(
+                [50.0, 10.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_6b4068465e9f1e64e2836ec42f5ef884 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_96c037c42d9f021e87175f8e52f0545f = $(`<div id="html_96c037c42d9f021e87175f8e52f0545f" style="width: 100.0%; height: 100.0%;">SAMOA: 5k</div>`)[0];
+                popup_6b4068465e9f1e64e2836ec42f5ef884.setContent(html_96c037c42d9f021e87175f8e52f0545f);
+            
+        
+
+        circle_f38946fbd9918c1418fef7de932edf8d.bindPopup(popup_6b4068465e9f1e64e2836ec42f5ef884)
+        ;
+
+        
+    
+    
+            var circle_3a4d9ac1a09eb43480882108a2e199c6 = L.circle(
+                [25.0, 45.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_86c9bd392b4c981c12a797d1b39731ee = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f16d5e43301909af35502bb27960689d = $(`<div id="html_f16d5e43301909af35502bb27960689d" style="width: 100.0%; height: 100.0%;">FIJI: 0k</div>`)[0];
+                popup_86c9bd392b4c981c12a797d1b39731ee.setContent(html_f16d5e43301909af35502bb27960689d);
+            
+        
+
+        circle_3a4d9ac1a09eb43480882108a2e199c6.bindPopup(popup_86c9bd392b4c981c12a797d1b39731ee)
+        ;
+
+        
+    
+    
+            var circle_bbbfab3af0f151fe0a7cb21bd87febbb = L.circle(
+                [25.0, 45.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_d92c27488a7e60c231ef50db9b980013 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cef214ef1827552629f3c258970c8668 = $(`<div id="html_cef214ef1827552629f3c258970c8668" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 2k</div>`)[0];
+                popup_d92c27488a7e60c231ef50db9b980013.setContent(html_cef214ef1827552629f3c258970c8668);
+            
+        
+
+        circle_bbbfab3af0f151fe0a7cb21bd87febbb.bindPopup(popup_d92c27488a7e60c231ef50db9b980013)
+        ;
+
+        
+    
+    
+            var circle_caaba689f726aaa9ac7629fa1e4a3228 = L.circle(
+                [25.0, 45.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_9fd8f2f7dcbb9b7ba3ed7bc00b4c00c6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6bdd6ab155e97afb57e93046d64963f3 = $(`<div id="html_6bdd6ab155e97afb57e93046d64963f3" style="width: 100.0%; height: 100.0%;">SAMOA: 0k</div>`)[0];
+                popup_9fd8f2f7dcbb9b7ba3ed7bc00b4c00c6.setContent(html_6bdd6ab155e97afb57e93046d64963f3);
+            
+        
+
+        circle_caaba689f726aaa9ac7629fa1e4a3228.bindPopup(popup_9fd8f2f7dcbb9b7ba3ed7bc00b4c00c6)
+        ;
+
+        
+    
+    
+            var circle_acc71af63947833be5b37347826c02c2 = L.circle(
+                [20.0, 80.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_9d036a65c1f0c2d6b153442a3d90d2a9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_81dba636a7a7db295c3f385137edaefa = $(`<div id="html_81dba636a7a7db295c3f385137edaefa" style="width: 100.0%; height: 100.0%;">FIJI: 5k</div>`)[0];
+                popup_9d036a65c1f0c2d6b153442a3d90d2a9.setContent(html_81dba636a7a7db295c3f385137edaefa);
+            
+        
+
+        circle_acc71af63947833be5b37347826c02c2.bindPopup(popup_9d036a65c1f0c2d6b153442a3d90d2a9)
+        ;
+
+        
+    
+    
+            var circle_9890ae2b3962c357fd6243b229a7f78f = L.circle(
+                [20.0, 80.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_5ae03e99227aaafe737b56610f96d499 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5a9ff72014a59e36a74a3bd555ad7449 = $(`<div id="html_5a9ff72014a59e36a74a3bd555ad7449" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 0k</div>`)[0];
+                popup_5ae03e99227aaafe737b56610f96d499.setContent(html_5a9ff72014a59e36a74a3bd555ad7449);
+            
+        
+
+        circle_9890ae2b3962c357fd6243b229a7f78f.bindPopup(popup_5ae03e99227aaafe737b56610f96d499)
+        ;
+
+        
+    
+    
+            var circle_1f03a0028d01533c561db020f40578fd = L.circle(
+                [20.0, 80.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_3893365c8dfe7f7c9aa9a8ece3492715 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_891a6d67953a705d0caa52eed649a54f = $(`<div id="html_891a6d67953a705d0caa52eed649a54f" style="width: 100.0%; height: 100.0%;">SAMOA: 2k</div>`)[0];
+                popup_3893365c8dfe7f7c9aa9a8ece3492715.setContent(html_891a6d67953a705d0caa52eed649a54f);
+            
+        
+
+        circle_1f03a0028d01533c561db020f40578fd.bindPopup(popup_3893365c8dfe7f7c9aa9a8ece3492715)
+        ;
+
+        
+    
+    
+            var circle_26b20bf919a12e21ced7901f5e11b2b8 = L.circle(
+                [-30.0, 120.0],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_33483d4519266ba7b2a8ecab06c3e857 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6558ec00442a386ce175759943266420 = $(`<div id="html_6558ec00442a386ce175759943266420" style="width: 100.0%; height: 100.0%;">FIJI: 10k</div>`)[0];
+                popup_33483d4519266ba7b2a8ecab06c3e857.setContent(html_6558ec00442a386ce175759943266420);
+            
+        
+
+        circle_26b20bf919a12e21ced7901f5e11b2b8.bindPopup(popup_33483d4519266ba7b2a8ecab06c3e857)
+        ;
+
+        
+    
+    
+            var circle_c68bae80de97f913ed1a32eaa9679c4b = L.circle(
+                [-30.0, 120.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_31fafe5e78a0151fcf4fe95840d04c74 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c3028caf41fd3b9182919082b5fb8617 = $(`<div id="html_c3028caf41fd3b9182919082b5fb8617" style="width: 100.0%; height: 100.0%;">FRENCH POLYNESIA: 1k</div>`)[0];
+                popup_31fafe5e78a0151fcf4fe95840d04c74.setContent(html_c3028caf41fd3b9182919082b5fb8617);
+            
+        
+
+        circle_c68bae80de97f913ed1a32eaa9679c4b.bindPopup(popup_31fafe5e78a0151fcf4fe95840d04c74)
+        ;
+
+        
+    
+    
+            var circle_c938fffcfbbe4d60388851ae2fe656ad = L.circle(
+                [-30.0, 120.0],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1000, "stroke": true, "weight": 3}
+            ).addTo(map_70fb9659b927ef796c87a7c93f93b91e);
+        
+    
+        var popup_5b4a73872e2a2f2136183c0cfb26c431 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7b8ea1f5b90191919a6c89737cd49c67 = $(`<div id="html_7b8ea1f5b90191919a6c89737cd49c67" style="width: 100.0%; height: 100.0%;">SAMOA: 1k</div>`)[0];
+                popup_5b4a73872e2a2f2136183c0cfb26c431.setContent(html_7b8ea1f5b90191919a6c89737cd49c67);
+            
+        
+
+        circle_c938fffcfbbe4d60388851ae2fe656ad.bindPopup(popup_5b4a73872e2a2f2136183c0cfb26c431)
+        ;
+
+        
+    
+</script>
+</html>
